@@ -26,6 +26,9 @@ Welcome to the **Financial Agent Project**, a robust system leveraging **Groq AI
 3. **`.env`**
    - **Purpose**: Stores sensitive environment variables, including the **GROQ API Key**.
    - **Setup**: Add the following to `.env`:
+   - Create a .env file in the following format:
+     GROQ_API_KEY='YOUR_API_KEY'
+     
      ```
      GROQ_API_KEY=your_api_key_here
      ```
