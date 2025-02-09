@@ -51,11 +51,6 @@ Welcome to the **Financial Agent Project**, a robust system leveraging **Groq AI
    python financial_agent.py
    ```
 
-2. **Launch the UI**:
-   ```bash
-   python playground.py
-   ```
-
 ---
 
 ## **Features**
